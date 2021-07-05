@@ -1,0 +1,73 @@
+body{
+    font-family: 'Oswald', sans-serif;
+}
+h1{
+    text-align: center;
+    font-size: 700;
+}
+h5{
+    text-align:center;
+    font-size: medium;
+}
+h3{
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+    font-size: 40px;
+}
+hr{
+    width:70%;
+    height:2px;
+    background:black;
+}
+a{
+    padding-right: 10px;
+    background-image: -o-linear-gradient(#B5EAEA, #EDF6E5);
+    padding:5px 2px;
+    margin: 0 10px 0 10px;
+}
+#big-img{
+    width: 80%;
+    margin-left: 130px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.anchors{
+    text-align: center;
+    text-decoration: none;
+    color:black;
+    font-size:700;
+
+    
+}
+#trip-from-site{
+    word-spacing: 10px;
+    letter-spacing: 5px;
+    font-size: 30px;
+    font-family: 'Amatic SC', cursive;
+    
+}
+section{
+    padding-top: 40px;
+    
+    padding-left: 13%;
+    
+
+}
+.prob{
+    height:200px;
+
+
+}
+.h6-sizing{
+    text-align:center;
+    padding-left: 10px;
+    background-color: #FEF7DC;
+    
+}
+#margin-top{
+    margin-top: 41px;
+}
+.mother-div{
+    display: flex;
+}
